@@ -1,6 +1,6 @@
 # sign_up_login
 
-A new Flutter project.
+This project is still ongoing. Please check after 2-3 days.
 
 ## Getting Started
 
